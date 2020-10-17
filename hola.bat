@@ -8,7 +8,5 @@ ECHO "Me gustan los trenes"
 ECHO Hace calor
 CLS
 ECHO He limpiado la pantalla
-
-ECHO "Me gusta"
 ECHO %DATE%
 PAUSE
