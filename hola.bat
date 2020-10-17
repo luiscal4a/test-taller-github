@@ -6,4 +6,6 @@ ECHO Pulsa N para no
 CHOICE /c SN /m "Si o NO"
 ECHO "Me gustan los trenes"
 ECHO Hace calor
+CLS
+ECHO He limpiado la pantalla
 PAUSE
