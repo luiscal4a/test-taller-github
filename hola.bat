@@ -6,4 +6,5 @@ CHOICE /c SN /m "Si o NO"
 CLS
 ECHO He limpiado la pantalla
 ECHO %DATE%
+ECHO Este es un fork
 PAUSE
