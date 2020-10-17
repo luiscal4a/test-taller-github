@@ -4,4 +4,5 @@ ECHO Quieres una taza de te?
 ECHO Pulsa S para Si
 ECHO Pulsa N para no
 CHOICE /c SN /m "Si o NO"
+ECHO Hace calor
 PAUSE
